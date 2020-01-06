@@ -1,0 +1,8 @@
+values,labels
+7100,Keine Heizung
+7101,Einzelofenheizung
+7102,Etagenheizung
+7103,Zentralheizung für das Gebäude
+7104,Zentralheizung für mehrere Gebäude
+7105,Öffentliche Fernwärmeversorgung
+7109,Andere Heizungsart

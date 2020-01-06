@@ -1,0 +1,11 @@
+values,labels
+7200,Kein Energieträger
+7201,Heizöl
+7202,Kohle
+7203,Gas
+7204,Elektrizität
+7205,Holz
+7206,Wärmepumpe
+7207,Sonnenkollektor
+7208,Fernwärme
+7209,Andere Energieträger

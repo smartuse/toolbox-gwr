@@ -1,0 +1,15 @@
+{
+    "name":"gwr-heizungsart",
+    "title":"Heizungsarten aus der Datenbeschreibung des GWR des Bundesamt für Statistik",
+    "licenses":["PDDL-1.0"],
+    "sources":["https://www.bfs.admin.ch/bfs/de/home/statistiken/bau-wohnungswesen/erhebungen/gws2009.assetdetail.7066269.html"],
+    "contributors":[{
+        "name":"SmartUse GmbH",
+        "email":"data@smartuse.ch",
+        "web":"https://smartuse.ch"
+    }],
+    "maintainers":[{
+        "name":"Thorben Westerhuys",
+        "web":"https://github.com/n0rdlicht/"
+    }]
+}

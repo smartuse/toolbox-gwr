@@ -1,0 +1,69 @@
+{
+  "bytes": 414,
+  "contributors": [
+    {
+      "email": "data@smartuse.ch",
+      "name": "SmartUse GmbH",
+      "web": "https://smartuse.ch"
+    }
+  ],
+  "count_of_rows": 13,
+  "hash": "11efbc1a7eb52a77a6062a5d7b775864",
+  "license": "ODC-PDDL-1.0",
+  "licenses": [
+    {
+      "type": "ODC-PDDL-1.0",
+      "url": "http://opendatacommons.org/licenses/pddl/1.0/"
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "Thorben Westerhuys",
+      "web": "https://github.com/n0rdlicht/"
+    }
+  ],
+  "name": "gwr-bauperioden",
+  "profile": "data-package",
+  "resources": [
+    {
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "name": "gwr-gbaups",
+      "path": "gwr-gbaups.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "values",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "name": "labels",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ],
+  "sources": [
+    {
+      "title": "Datenbeschreibung GWS | Publikation",
+      "url": "https://www.bfs.admin.ch/bfs/de/home/statistiken/bau-wohnungswesen/erhebungen/gws2009.assetdetail.7066269.html"
+    }
+  ],
+  "title": "Bauperioden aus der Datenbeschreibung des GWR des Bundesamt für Statistik"
+}
